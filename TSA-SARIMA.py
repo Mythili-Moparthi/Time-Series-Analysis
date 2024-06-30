@@ -16,7 +16,7 @@ from statsmodels.tsa.seasonal import seasonal_decompose
 # In[99]:
 
 
-df = pd.read_csv('/Users/mythilimoparthi/Desktop/koch/Case Study Data.csv')
+df = pd.read_csv('/Users/mythilimoparthi/Desktop/Case Study Data.csv')
 
 
 # In[100]:
